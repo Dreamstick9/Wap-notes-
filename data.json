@@ -1,0 +1,14 @@
+{
+    "restrol" : {
+        "id" : 1,
+        "name" : "a",
+        "items" : ["item1", "item2"],
+        "isOpen" : true
+    },
+    "restro2" : {
+        "id" : 2,
+        "name" : "ab",
+        "items" : ["item1", "item2"],
+        "isOpen" : false
+    }
+}
